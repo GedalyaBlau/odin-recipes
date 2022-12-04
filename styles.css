@@ -1,0 +1,23 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color-scheme: dark;
+    text-align: center;
+}
+h1 {
+    color-scheme:dark;
+    color:aqua;
+}
+a {
+    color:rgb(193, 143, 240);
+    text-align: center;
+    font-size:22px
+}
+ul {
+    text-align: center;
+    text-decoration: none;
+}
+li {
+    text-align: center;
+    text-decoration: none;
+    padding:10px;
+}
